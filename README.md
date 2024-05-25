@@ -5,7 +5,6 @@ It converts video soundtracks into standalone audio files for various uses.<br>
 ### Packages need to run on the terminal: <br>
 ### 1.pip install moviepy<br>
 ### 2.pip install tk<br>
-
 import moviepy.editor:This line imports the moviepy.editor module, which provides functionality for editing and manipulating video files.<br>
 
 import tkinter.filedialog: This line imports the tkinter.filedialog module, which allows for opening file dialogs to select files from the file system.<br>
